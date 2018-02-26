@@ -184,6 +184,7 @@ public class Agregar extends AppCompatActivity {
     }
 
     public void Eliminar(String Matricula) {
+        //
         try {
             if (ConstruirBD()) {
             //bd.execSQL("DELETE * FROM evaluacion WHERE matricula='" + Matricula + "'");
