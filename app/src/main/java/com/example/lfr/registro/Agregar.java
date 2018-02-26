@@ -31,7 +31,7 @@ public class Agregar extends AppCompatActivity {
         Ver = (EditText) findViewById(R.id.Muestra);
         Matricula = (EditText) findViewById(R.id.Mat);
         Nombre = (EditText) findViewById(R.id.Nom);
-        Edad = (EditText) findViewById(R.id.Eda);
+       // Edad = (EditText) findViewById(R.id.Eda);
         Que = (EditText) findViewById(R.id.Ver);
        // Materia = (EditText) findViewById(R.id.mate);
         Evaluacion = (EditText) findViewById(R.id.Eva);
