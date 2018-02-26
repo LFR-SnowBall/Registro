@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="M">Matricula</string>
+    <string name="N">Nombre</string>
+    <string name="E">Edad</string>
+    <string name="G">Guardar</string>
+    <string name="B">Buscar</string>
+    <string name="V">Ver Todo</string>
+    <string name="mat">Materia</string>
+    <string name="Eva">Evaluacion</string>
+    <string name="AEva">AG.Evaluacion</string>
+    <string name="Al">AG.Alumno</string>
+    <string name="Elim">Eliminar</string>
+    <string name="que">Que</string>
+</resources>
