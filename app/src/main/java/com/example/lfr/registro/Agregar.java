@@ -33,7 +33,7 @@ public class Agregar extends AppCompatActivity {
         Nombre = (EditText) findViewById(R.id.Nom);
         Edad = (EditText) findViewById(R.id.Eda);
         Que = (EditText) findViewById(R.id.Ver);
-        Materia = (EditText) findViewById(R.id.mate);
+       // Materia = (EditText) findViewById(R.id.mate);
         Evaluacion = (EditText) findViewById(R.id.Eva);
        r1.setChecked(true);
        abilitar();
@@ -184,7 +184,6 @@ public class Agregar extends AppCompatActivity {
     }
 
     public void Eliminar(String Matricula) {
-        //
         try {
             if (ConstruirBD()) {
             //bd.execSQL("DELETE * FROM evaluacion WHERE matricula='" + Matricula + "'");
